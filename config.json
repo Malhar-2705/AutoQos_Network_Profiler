@@ -1,0 +1,11 @@
+{
+  "enforcement_enabled": true,
+  "ACTIVE_POLICY": "Balanced_Mode",
+  "PRIORITY_SPEED_MAP": {},
+  "POLICIES": {},
+  "process_rules": {
+    "ms-teams.exe": {
+      "priority": 5
+    }
+  }
+}
